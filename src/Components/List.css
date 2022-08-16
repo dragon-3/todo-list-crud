@@ -1,0 +1,32 @@
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: solid thin grey;
+    padding: 14px;
+}
+
+button {
+    margin: 6px;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 20px;
+    height: 40px;
+    width: 70px;
+}
+
+.btn-update {
+    background: green;
+    
+}
+
+.btn-delete {
+    background: rgb(245, 7, 7);
+}
