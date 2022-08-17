@@ -4,6 +4,11 @@
       "event": "Get gas",
       "time": "tonight",
       "id": 1
+    },
+    {
+      "event": "movie with bruna",
+      "time": "10 pm",
+      "id": 2
     }
   ]
 }
